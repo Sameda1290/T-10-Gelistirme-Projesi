@@ -1,1 +1,1 @@
-# T-10-Geli-tirme-Projesi
+# T-10-Gelistirme-Projesi
